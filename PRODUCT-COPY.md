@@ -101,4 +101,63 @@ Wear it to the studio, to the corner shop, to the place you feel most yourself. 
 
 ---
 
+### Pure Joy Tee
+
+**URL slug:** `/products/pure-joy-tee`  
+**Meta title:** `Pure Joy Tee — Colorful Graphic Print T-Shirt | PrintPlayHouse`  
+**Meta description:** `Wear your joy out loud. The Pure Joy Tee bursts with color, bold graphic print, and pure playful energy. Made with love. Shop PrintPlayHouse.`  
+*(141 characters)*
+
+---
+
+**H1:** Pure Joy Tee
+
+**Short description (above fold):**
+
+> Joy looks good on you. The Pure Joy Tee is a burst of color and playful print energy — made to be worn, felt, and loved every single day.
+
+---
+
+**Full description:**
+
+Some days you need to wear your feeling on the outside. This is that tee.
+
+The Pure Joy Tee started with a simple brief: make something that makes people smile. A color story that pops. A graphic that dances. A fit that feels as good as it looks.
+
+We landed on a print that layers color like a celebration — warm tones, playful shapes, the kind of graphic that catches light and holds it. Printed on a mid-weight, breathable cotton tee with a relaxed, universally flattering fit. It moves the way you move. It wears the way you live.
+
+This isn't a "save it for the right occasion" tee. It's for Tuesday mornings, Friday nights, and every moment in between that deserves a little color.
+
+Made with pure love, worn with pure joy.
+
+---
+
+**Features:**
+
+- Bold original colorful graphic print — exclusive to PrintPlayHouse
+- Mid-weight cotton: 180 GSM, 100% ring-spun cotton
+- Breathable, relaxed fit with dropped shoulders
+- Crew neck, short sleeve
+- Unisex sizing — see size guide for fit guide
+- Machine washable (cold, inside out — to protect the print)
+- Ethically produced
+
+---
+
+**SEO keywords targeted:**  
+`pure joy tee`, `colorful graphic tee`, `bold print t-shirt`, `expressive graphic tee`, `playful print clothing`, `joy t-shirt`, `printplayhouse tee`, `colorful streetwear`, `love themed t-shirt`
+
+---
+
+**Image alt texts:**
+
+| File | Alt Text |
+|---|---|
+| `product-front.jpg` | `PrintPlayHouse Pure Joy Tee — front product shot showing full colorful graphic print` |
+| `product-detail-closeup.jpg` | `PrintPlayHouse Pure Joy Tee — close-up of vibrant colorful graphic print detail` |
+| `lifestyle-secondary.jpg` | `PrintPlayHouse Pure Joy Tee — lifestyle photo, model wearing relaxed fit outdoors` |
+| `ugc-social-media.jpg` | `PrintPlayHouse Pure Joy Tee — UGC social media shot, styled and worn by customer` |
+
+---
+
 *Last updated: April 2026*
