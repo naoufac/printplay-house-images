@@ -33,3 +33,4 @@ See [`IMAGE-CONVENTIONS.md`](./IMAGE-CONVENTIONS.md) for full naming and optimiz
 | Product | Folder | Status |
 |---|---|---|
 | Keeper Hoodie | `keeper-hoodie/` | ✅ Live |
+| Pure Joy Tee | `pure-joy-tee/` | 🚧 Images pending |
